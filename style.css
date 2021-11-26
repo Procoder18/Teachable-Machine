@@ -1,0 +1,17 @@
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+body{
+    background-color:gold;
+}
+.trained_objects{
+    font-size: 20px;
+}
+#camera{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    width: 350px;
+    height: 300px;
+}
